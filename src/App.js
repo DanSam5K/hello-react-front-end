@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Greeting from './component/Greeting';
-import Navbar from './component/Navbar';
+import Greeting from './components/Greeting';
+import Navbar from './components/Navbar';
 
 const App = () => (
   <Router>
