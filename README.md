@@ -10,9 +10,9 @@ The main goals for this exercise are:
 
 In this project, only the ReactJS front-end part was implemented. The back-end part of the project can be found in [this repo](https://github.com/DanSam5k/hello-rails-back-end/).
 
-Below, a screenshot of the app is presented:
+- Below, a screenshot of the app is presented:
 
-
+> ![screenshot](./src/image/app_screenshot.png)
 
 ## Built With
 
