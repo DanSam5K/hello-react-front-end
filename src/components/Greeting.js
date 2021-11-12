@@ -12,7 +12,7 @@ const Greeting = () => {
     return () => null;
   }, []);
 
-  return <h2>{greeting.messages}</h2>;
+  return <h2>{greeting.message}</h2>;
 };
 
 export default Greeting;
